@@ -2,6 +2,8 @@
 
 A production-ready responsive Photo Gallery built with **React**, **Vite**, and **Tailwind CSS**. Fetches images from the Picsum Photos API, supports real-time author search filtering, and enables marking photos as favorites with `useReducer` and persistent `localStorage` synchronization.
 
+🌐 **Live Demo:** [https://celebrare-photo-gallery.onrender.com/](https://celebrare-photo-gallery.onrender.com/)
+
 ---
 
 ## 🚀 Features
@@ -60,3 +62,9 @@ npm run dev
 npm run build
 npm run preview
 ```
+
+---
+
+## 🌐 Deployment
+This application is deployed on **Render**:
+- **Live URL:** [https://celebrare-photo-gallery.onrender.com/](https://celebrare-photo-gallery.onrender.com/)
